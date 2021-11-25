@@ -1,8 +1,6 @@
 # Omnifood
 
-Search for recipe, add your favorite one to bookmarks!
-
-https://forkify-fs.netlify.app/
+Page for company that provides individual weekly meal plan based on AI algorithm.
 
 ## Table of contents
 

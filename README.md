@@ -2,6 +2,8 @@
 
 Page for company that provides individual weekly meal plan based on AI algorithm.
 
+https://omnifood-fs.netlify.app/
+
 ## Table of contents
 
 - [General info](#general-info)
